@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rafaellessa/clean_node_ts/issues"
   },
-  "homepage": "https://github.com/rafaellessa/clean_node_ts#readme"
+  "homepage": "https://github.com/rafaellessa/clean_node_ts#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.2.6"
+  }
 }
